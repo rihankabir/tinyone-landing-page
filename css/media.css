@@ -57,6 +57,11 @@ margin-bottom:10px;
 font-size:25px;
 	
 }
+.c_p{
+font-size:17px;
+line-height:25px;
+
+}
 
 }
 @media (min-width: 576px) and (max-width: 767px){
