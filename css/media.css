@@ -52,7 +52,11 @@ header{
 padding-top:50px;
 padding-bottom:70px;
 }
-
+.c_h1{
+margin-bottom:15px;
+font-size:25px;
+	
+}
 
 }
 @media (min-width: 576px) and (max-width: 767px){
