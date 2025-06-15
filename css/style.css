@@ -100,3 +100,30 @@ padding: 20px 0;
 	color: #313841;
 	line-height:28px;
 }
+
+.f_icon{}
+.f_icon i{
+	margin-top: 2px;
+	font-size: 50px;
+	color: #010101;
+	transition: .3s;
+}
+.f_text{
+
+}
+
+.f_text h2{
+	margin-bottom: 10px;
+	font-size: 22px;
+	font-weight: 400;
+	color: #010101;
+}
+.f_text p{
+	letter-spacing: 1px;
+}
+.f_item{
+	margin-top: 70px;
+}
+.f_icon i:hover{
+	transform: scale(.8);
+}
