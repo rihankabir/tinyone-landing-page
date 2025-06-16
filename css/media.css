@@ -4,7 +4,7 @@ header{
 	padding: 10px 0;
 }
 body{
-	padding:89px;
+	padding-top:89px;
 }
 .menu ul li a{
 	padding: 10px 0 0 !important;
@@ -132,7 +132,7 @@ text-align: center;
 	text-align: right;
 }
 body{
-padding:89px;
+padding-top:89px;
 }
 .features{
 padding-top:50px;
