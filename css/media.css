@@ -107,6 +107,21 @@ margin-bottom: 40px;
 	font-size: 35px;
 	
 }
+
+footer{
+
+padding-bottom: 70px;
+
+}
+.f_1{
+text-align: center;
+
+}
+.f_2{
+	text-align: center;
+	margin-top:40px ;
+}
+	
 }
 @media (min-width: 576px) and (max-width: 767px){
 .menu ul li a{
@@ -213,6 +228,19 @@ margin-bottom: 40px;
 	font-size: 40px;
 	
 }	
+
+footer{
+
+padding-bottom: 70px;
+
+}
+.f_1{
+text-align: center;
+margin-bottom: 40px;
+}
+.f_2{
+	text-align: center;
+}	
 }
 @media (min-width: 768px) and (max-width: 991px){
 .features{
@@ -233,7 +261,12 @@ margin-top: 65px;
 margin-bottom: 70px;
 
 }
-	
+
+footer{
+background-color: #010101;
+padding-bottom: 120px;
+
+}	
 }
 @media (min-width: 992px) and (max-width: 1199.20px){
 
